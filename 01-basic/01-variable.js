@@ -20,5 +20,13 @@ prefer not to use var
 because of an issue with block scope and functionl scope
 */
 
+/*
+variabe name should be in CamelCase
+
+Here are some examples of camelCase:
+           myVariableName
+           calculateTotalAmount
+           isUserAuthenticated
+*/ 
 
  console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
