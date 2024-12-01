@@ -30,8 +30,11 @@ console.log(regularUser.userName?.userFullName.firstName);
  /*
  Why undefined and not null?
 undefined is the default value JavaScript returns when something is missing or undefined.
+
 null is a special value used explicitly to indicate "no value" or "intentional absence of any object value." It is not automatically returned when a property doesn't exist or is missing, like undefined is.
 So, when using optional chaining and the value is missing or null, the result will always be **undefined**, never null.
+
+mplicit means something is done automatically or without being stated clearly, while explicit means something is stated clearly and directly.
 
 */
 
