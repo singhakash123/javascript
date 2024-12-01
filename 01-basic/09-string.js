@@ -63,3 +63,8 @@ let sentence1 = "one two three four five";
       console.log(words1);
 
       
+
+
+const stringValue = new String('Akash Singh Chauhan')
+         console.log(stringValue); // [String: 'Akash Singh Chauhan']
+         
