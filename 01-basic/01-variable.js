@@ -22,8 +22,6 @@ Initialization required: A const variable must be initialized at the time of dec
 Mutable objects: If a const variable holds an object or array, the contents can still be modified (such as adding properties to an object or changing elements of an array).
 
                 */
-
-   
 const person = { name: "Alice", age: 25 };
 person.age = 26; // This is allowed because we're modifying the contents of the object, not reassigning the variable itself.
 console.log(person);  // Output: { name: "Alice", age: 26 }
@@ -48,7 +46,7 @@ because of an issue with block scope and functionl scope
 */
 
 /*
-variabe name should be in CamelCase
+variabe name should be in CamelCase  , 
 
 Here are some examples of camelCase:
            myVariableName
