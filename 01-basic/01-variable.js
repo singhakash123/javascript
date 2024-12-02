@@ -36,8 +36,6 @@ const: Block-scoped and cannot be reassigned, but the value it holds can be muta
 
 Conclusion:
 The const keyword is useful for variables whose values you do not intend to change after initialization, and it helps ensure that you don't accidentally overwrite or reassign a variable's value. However, if the variable holds an object or array, the contents of the object/array can still be modified.
-
-
 */
 
 /* 
