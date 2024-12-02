@@ -31,8 +31,8 @@ let state;
 // function 
 
 
-console.log(typeof undefined ); // undefind 
-console.log(typeof null ); // null 
+console.log(typeof (undefined )); // undefind 
+console.log(typeof null ); // object
 
 
 
