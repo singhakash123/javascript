@@ -4,7 +4,7 @@
 
 (function chai (){
     // Nmed IIFE
-  console.log("immediately invoked function");
+  console.log("Db connected");
 })();
 
 
